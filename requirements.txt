@@ -1,4 +1,4 @@
-colorama==0.4.4
-fake-useragent==0.1.11
-requests==2.26.0
-urllib3==1.26.7
+colorama
+fake-useragent
+requests
+urllib3
