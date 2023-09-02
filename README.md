@@ -13,7 +13,7 @@ DirscanX merupakan sebuah alat simple yang dirancang untuk mencari sebuah path a
 2. Jalankan skrip dengan perintah berikut:
 
    ```bash
-   python web_status_checker.py -u example.com
+   python main.py -u example.com
    ```
 
    - `-u` atau `--url`: URL website target.
